@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Representation Preserving Multiclass Agnostic to Realizable Reduction"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: Conference Paper
+permalink: https://openreview.net/forum?id=yTfQt7vK6M
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
