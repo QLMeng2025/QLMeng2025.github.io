@@ -1,10 +1,10 @@
 ---
 title: "Representation Preserving Multiclass Agnostic to Realizable Reduction"
 collection: publications
-category: Conference Paper
+category: conference
 permalink: https://openreview.net/forum?id=yTfQt7vK6M
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2025
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
