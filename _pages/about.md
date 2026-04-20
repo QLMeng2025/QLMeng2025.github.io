@@ -13,6 +13,7 @@ I am broadly interested in the theoretical foundations of machine learning, incl
 
 ## News
 
+- **2026** — Paper accepted at ACL 2026: *Towards Intrinsic Interpretability of Large Language Models*
 - **2025** — Paper accepted at ICML 2025: *Representation Preserving Multiclass Agnostic to Realizable Reduction*
 - **2024** — Paper published in JMLR: *Learning Dynamic Mechanisms in Unknown Environments*
 
@@ -26,6 +27,10 @@ Steve Hanneke, Qinglin Meng, Amirreza Shaeiri
 Shuang Qiu, Bo Lyu, Qinglin Meng, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan  
 *Journal of Machine Learning Research (JMLR)*, 25(397):1–73, 2024 · [Paper](https://jmlr.org/papers/v25/23-0368.html)
 
+**Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**  
+Yutong Gao, Qinglin Meng, Yuan Zhou, Liangming Pan  
+*ACL 2026* · [Paper](https://arxiv.org/abs/2604.16042)
+
 **An Optimal Sauer Lemma Over ℓ-ary Alphabets**  
 Steve Hanneke, Qinglin Meng, Shay Moran, Amirreza Shaeiri  
-*arXiv preprint*, 2025 · [Paper](https://arxiv.org/abs/2604.12952)
+*arXiv preprint*, 2026 · [Paper](https://arxiv.org/abs/2604.12952)
