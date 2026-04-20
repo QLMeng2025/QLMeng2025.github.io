@@ -15,7 +15,6 @@ I am broadly interested in the theoretical foundations of machine learning, incl
 
 - **2025** — Paper accepted at ICML 2025: *Representation Preserving Multiclass Agnostic to Realizable Reduction*
 - **2024** — Paper published in JMLR: *Learning Dynamic Mechanisms in Unknown Environments*
-- **2024** — Recipient of the **Magoon Research Excellence Award** at Purdue University
 
 ## Selected Publications
 
