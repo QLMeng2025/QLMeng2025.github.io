@@ -7,7 +7,7 @@ excerpt: 'A systematic survey on intrinsic interpretability for LLMs, categorizi
 date: 2026-04-17
 venue: 'Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference)'
 paperurl: 'https://arxiv.org/abs/2604.16042'
-citation: 'Yutong Gao*, <b>Qinglin Meng</b>*, Yuan Zhou, Liangming Pan (* equal contribution)'
+citation: 'Yutong Gao*, <b>Qinglin Meng</b>*, Yuan Zhou, Liangming Pan'
 ---
 
 We present a systematic survey on intrinsic interpretability for Large Language Models. Unlike existing surveys focusing on post-hoc explanation methods, we focus on transparency built directly into model architectures and computations. We categorize existing approaches into five design paradigms: functional transparency, concept alignment, representational decomposability, explicit modularization, and latent sparsity induction.

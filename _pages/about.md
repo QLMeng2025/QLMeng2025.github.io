@@ -18,18 +18,20 @@ My research focuses on **machine learning theory**, **reinforcement learning**, 
 
 ## Selected Publications
 
+<small>\* Equal contribution &nbsp;&nbsp; † Alphabetical author order</small>
+
 **Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach**  
-Shuang Qiu\*, Bo Lyu\*, **Qinglin Meng**\*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan (\* equal contribution)  
+Shuang Qiu\*, Bo Lyu\*, **Qinglin Meng**\*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan  
 *Journal of Machine Learning Research (JMLR)*, 25(397):1–73, 2024 · [Paper](https://jmlr.org/papers/volume25/23-0159/23-0159.pdf)
 
 **Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**  
-Yutong Gao\*, **Qinglin Meng**\*, Yuan Zhou, Liangming Pan (\* equal contribution)  
+Yutong Gao\*, **Qinglin Meng**\*, Yuan Zhou, Liangming Pan  
 *ACL 2026 Main Conference* · [Paper](https://arxiv.org/abs/2604.16042)
 
 **An Optimal Sauer Lemma Over ℓ-ary Alphabets**  
-Steve Hanneke, **Qinglin Meng**, Shay Moran, Amirreza Shaeiri (alphabetical order)  
+Steve Hanneke†, **Qinglin Meng**†, Shay Moran†, Amirreza Shaeiri†  
 *arXiv preprint*, 2026 · [Paper](https://arxiv.org/abs/2604.12952)
 
 **Representation Preserving Multiclass Agnostic to Realizable Reduction**  
-Steve Hanneke, **Qinglin Meng**, Amirreza Shaeiri (alphabetical order)  
+Steve Hanneke†, **Qinglin Meng**†, Amirreza Shaeiri†  
 *ICML 2025* · [Paper](https://openreview.net/forum?id=yTfQt7vK6M)
