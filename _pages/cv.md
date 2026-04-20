@@ -21,7 +21,7 @@ My research focuses on machine learning theory, reinforcement learning, and larg
 
 ## Publications
 
-<small>* Equal contribution &nbsp;&nbsp; † Alphabetical author order</small>
+<small>* Equal contribution</small>
 
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
