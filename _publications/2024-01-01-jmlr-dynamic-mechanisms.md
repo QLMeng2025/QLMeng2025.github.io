@@ -7,7 +7,7 @@ excerpt: 'We study the problem of learning dynamic mechanisms in unknown environ
 date: 2024-01-01
 venue: 'Journal of Machine Learning Research (JMLR)'
 paperurl: 'https://jmlr.org/papers/v25/23-0368.html'
-citation: 'Qiu, S., Lyu, B., Meng, Q., Wang, Z., Yang, Z., & Jordan, M. I. (2024). Learning dynamic mechanisms in unknown environments: A reinforcement learning approach. <i>Journal of Machine Learning Research</i>, 25(397), 1–73.'
+citation: 'Shuang Qiu*, Bo Lyu*, <b>Qinglin Meng</b>*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan (* equal contribution)'
 ---
 
 We study the problem of learning optimal dynamic mechanisms in unknown environments using reinforcement learning. We propose algorithms with provable sample complexity and regret guarantees for learning revenue-maximizing mechanisms when the buyer's valuation distribution is unknown and must be learned through interaction.

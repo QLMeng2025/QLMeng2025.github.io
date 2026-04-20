@@ -7,7 +7,7 @@ excerpt: 'We prove an optimal generalization of the Sauer-Shelah lemma to the mu
 date: 2026-04-01
 venue: 'arXiv preprint arXiv:2604.12952'
 paperurl: 'https://arxiv.org/abs/2604.12952'
-citation: 'Hanneke, S., Meng, Q., Moran, S., & Shaeiri, A. (2026). An optimal Sauer lemma over ℓ-ary alphabets. <i>arXiv preprint arXiv:2604.12952</i>.'
+citation: 'Steve Hanneke, <b>Qinglin Meng</b>, Shay Moran, Amirreza Shaeiri (alphabetical order)'
 ---
 
 We establish an optimal generalization of the classical Sauer-Shelah lemma to the multiclass setting over ℓ-ary alphabets. Our result gives tight bounds on the growth function for multiclass hypothesis classes and has implications for sample complexity in multiclass learning theory.
