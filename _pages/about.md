@@ -21,7 +21,7 @@ My research focuses on **machine learning theory**, **reinforcement learning**, 
 
 **Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach**  
 Shuang Qiu\*, Bo Lyu\*, **Qinglin Meng**\*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan (\* equal contribution)  
-*Journal of Machine Learning Research (JMLR)*, 25(397):1–73, 2024 · [Paper](https://jmlr.org/papers/v25/23-0368.html)
+*Journal of Machine Learning Research (JMLR)*, 25(397):1–73, 2024 · [Paper](https://jmlr.org/papers/volume25/23-0159/23-0159.pdf)
 
 **Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**  
 Yutong Gao\*, **Qinglin Meng**\*, Yuan Zhou, Liangming Pan (\* equal contribution)  

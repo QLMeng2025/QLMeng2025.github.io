@@ -6,7 +6,7 @@ permalink: /publication/jmlr2024-dynamic-mechanisms
 excerpt: 'We study the problem of learning dynamic mechanisms in unknown environments through a reinforcement learning approach, and establish provable guarantees.'
 date: 2024-01-01
 venue: 'Journal of Machine Learning Research (JMLR)'
-paperurl: 'https://jmlr.org/papers/v25/23-0368.html'
+paperurl: 'https://jmlr.org/papers/volume25/23-0159/23-0159.pdf'
 citation: 'Shuang Qiu*, Bo Lyu*, <b>Qinglin Meng</b>*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan (* equal contribution)'
 ---
 
