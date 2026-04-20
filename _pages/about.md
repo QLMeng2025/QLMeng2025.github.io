@@ -25,7 +25,7 @@ Shuang Qiu\*, Bo Lyu\*, **Qinglin Meng**\*, Zhaoran Wang, Zhuoran Yang, Michael 
 
 **Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**  
 Yutong Gao\*, **Qinglin Meng**\*, Yuan Zhou, Liangming Pan (\* equal contribution)  
-*ACL 2026* · [Paper](https://arxiv.org/abs/2604.16042)
+*ACL 2026 Main Conference* · [Paper](https://arxiv.org/abs/2604.16042)
 
 **An Optimal Sauer Lemma Over ℓ-ary Alphabets**  
 Steve Hanneke, **Qinglin Meng**, Shay Moran, Amirreza Shaeiri (alphabetical order)  
