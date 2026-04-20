@@ -22,7 +22,7 @@ repository               : "QLMeng2025/QLMeng2025.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.jpg"
   name             : "Qinglin Meng"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science at Purdue University. Research in machine learning theory, reinforcement learning, and LLMs."
