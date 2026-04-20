@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at [Purdue University](https://www.cs.purdue.edu/) (2022–present), advised by [Steve Hanneke](https://stevehanneke.com/). I received my B.S. in Mathematics from [Tsinghua University](https://www.math.tsinghua.edu.cn/) in 2022.
 
-My research focuses on **machine learning theory**, **reinforcement learning**, and **large language models**. I am broadly interested in the theoretical foundations of machine learning, including statistical learning theory, online learning, and algorithms with provable guarantees. I have also collaborated with [Zhuoran Yang](https://zhuoranyang.github.io/) (Yale), [Zhaoran Wang](https://zhaoranwang.github.io/) (Northwestern), [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) (UC Berkeley), [Liangming Pan](https://liangmingpan.com/) (Peking University), and [Shay Moran](https://sites.google.com/view/shaymoran/home) (Technion & Google Research).
+My research focuses on **machine learning theory**, **reinforcement learning**, and **large language models**. I am broadly interested in the theoretical foundations of machine learning, including statistical learning theory, online learning, and algorithms with provable guarantees. I have also collaborated with [Zhuoran Yang](https://zhuoranyang.github.io/) (Yale), [Zhaoran Wang](https://zhaoranwang.github.io/) (Northwestern), [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) (UC Berkeley), [Shuang Qiu](https://shuangqiu.github.io/) (CUHK), [Liangming Pan](https://liangmingpan.com/) (Peking University), and [Shay Moran](https://sites.google.com/view/shaymoran/home) (Technion & Google Research).
 
 ## News
 
