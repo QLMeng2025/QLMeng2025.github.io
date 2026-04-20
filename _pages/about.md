@@ -14,25 +14,23 @@ My research focuses on **machine learning theory**, **reinforcement learning**, 
 ## News
 
 - **2026** — Paper accepted at ACL 2026: *Towards Intrinsic Interpretability of Large Language Models*
-- **2026** — Incoming MLE Intern at [DoorDash](https://www.doordash.com/) (May–Aug 2026)
-- **2026** — Incoming Applied Scientist Intern at [Amazon](https://www.amazon.science/) (Aug–Dec 2026)
 - **2025** — Paper accepted at ICML 2025: *Representation Preserving Multiclass Agnostic to Realizable Reduction*
 - **2024** — Paper published in JMLR: *Learning Dynamic Mechanisms in Unknown Environments*
 
 ## Selected Publications
 
-**Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**  
-Yutong Gao\*, **Qinglin Meng**\*, Yuan Zhou, Liangming Pan (\* equal contribution)  
-*ACL 2026* · [Paper](https://arxiv.org/abs/2604.16042)
-
-**Representation Preserving Multiclass Agnostic to Realizable Reduction**  
-Steve Hanneke, **Qinglin Meng**, Amirreza Shaeiri (alphabetical order)  
-*ICML 2025* · [Paper](https://openreview.net/forum?id=yTfQt7vK6M)
-
 **Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach**  
 Shuang Qiu\*, Bo Lyu\*, **Qinglin Meng**\*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan (\* equal contribution)  
 *Journal of Machine Learning Research (JMLR)*, 25(397):1–73, 2024 · [Paper](https://jmlr.org/papers/v25/23-0368.html)
 
+**Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**  
+Yutong Gao\*, **Qinglin Meng**\*, Yuan Zhou, Liangming Pan (\* equal contribution)  
+*ACL 2026* · [Paper](https://arxiv.org/abs/2604.16042)
+
 **An Optimal Sauer Lemma Over ℓ-ary Alphabets**  
 Steve Hanneke, **Qinglin Meng**, Shay Moran, Amirreza Shaeiri (alphabetical order)  
 *arXiv preprint*, 2026 · [Paper](https://arxiv.org/abs/2604.12952)
+
+**Representation Preserving Multiclass Agnostic to Realizable Reduction**  
+Steve Hanneke, **Qinglin Meng**, Amirreza Shaeiri (alphabetical order)  
+*ICML 2025* · [Paper](https://openreview.net/forum?id=yTfQt7vK6M)

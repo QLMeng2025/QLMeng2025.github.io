@@ -15,11 +15,6 @@ redirect_from:
   * Advisor: [Steve Hanneke](https://stevehanneke.com/)
 * **B.S. in Mathematics**, Tsinghua University, 2017–2022
 
-## Industry Experience
-
-* **Applied Scientist Intern**, Amazon, Aug–Dec 2026
-* **Machine Learning Engineer Intern**, DoorDash, May–Aug 2026
-
 ## Research
 
 My research focuses on machine learning theory, reinforcement learning, and large language models. I am interested in the theoretical foundations of learning, including statistical learning theory, online learning, and algorithms with provable guarantees.
