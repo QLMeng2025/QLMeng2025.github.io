@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at [Purdue University](https://www.cs.purdue.edu/), advised by [Steve Hanneke](https://stevehanneke.com/). My research focuses on **machine learning theory**, **reinforcement learning**, and **large language models**.
 
-I am broadly interested in the theoretical foundations of machine learning, including statistical learning theory, online learning, and the design of efficient algorithms with provable guarantees.
+I am broadly interested in the theoretical foundations of machine learning, including statistical learning theory, online learning, and the design of efficient algorithms with provable guarantees. I have also collaborated with [Zhuoran Yang](https://zhuoranyang.github.io/) (Yale), [Zhaoran Wang](https://zhaoranwang.github.io/) (Northwestern), and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) (UC Berkeley).
 
 ## News
 
