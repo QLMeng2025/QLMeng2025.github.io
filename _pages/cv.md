@@ -24,8 +24,8 @@ Reinforcement learning, large language models, statistical machine learning, mul
 
 *August 2026–present*
 
-- Developed an LLM embedding and KNN retrieval pipeline for cost and profit prediction on low-volume and cold-start products, reducing MAE by 15–20% relative to the existing economics-based baseline.
-- Post-trained a Transformer embedding model with contrastive learning for product retrieval and cost prediction.
+- Designed and built an end-to-end product embedding and KNN retrieval pipeline to predict multiple cost and profitability (CP) components for low-volume and cold-start products, reducing prediction MAE by 15–30% across different CP components compared to the existing economics-based baseline.
+- Post-trained a Transformer-based embedding model using multi-objective contrastive learning to learn task-specific product representations for similarity-based retrieval and downstream CP component prediction.
 
 ### DoorDash — Machine Learning Engineer Intern
 
