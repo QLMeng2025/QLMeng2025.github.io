@@ -11,7 +11,7 @@ I am a PhD candidate in Computer Science at [Purdue University](https://www.cs.p
 
 My research interests include **reinforcement learning**, **large language models**, **statistical machine learning**, **multi-armed bandits**, and **mechanism design**. My work spans learning theory, sequential decision making, and LLM safety and interpretability.
 
-I am currently an **Applied Scientist Intern at Amazon** (August 2026–present). Previously, I was a **Machine Learning Engineer Intern at DoorDash**, Marketplace – Supply and Demand (May–August 2026).
+I am currently an **Applied Scientist Intern at Amazon** (August 2026–present). Previously, I was a **Machine Learning Engineer Intern at DoorDash** (May–August 2026).
 
 [CV](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=XpbUfTsAAAAJ&hl=en) · [Email](mailto:qinglinmeng.work@gmail.com)
 

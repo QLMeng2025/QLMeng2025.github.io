@@ -27,7 +27,7 @@ Reinforcement learning, large language models, statistical machine learning, mul
 - Developed an LLM embedding and KNN retrieval pipeline for cost and profit prediction on low-volume and cold-start products, reducing MAE by 15–20% relative to the existing economics-based baseline.
 - Post-trained a Transformer embedding model with contrastive learning for product retrieval and cost prediction.
 
-### DoorDash — Machine Learning Engineer Intern, Marketplace – Supply and Demand
+### DoorDash — Machine Learning Engineer Intern
 
 *May–August 2026*
 
