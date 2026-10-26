@@ -19,7 +19,7 @@ I am currently an **Applied Scientist Intern at Amazon** (August 2026–present)
 
 - **2026** — *PAC Learning with Bandit Feedback: Sharp Sample Complexity in the Realizable Setting* accepted at **NeurIPS 2026**.
 - **August 2026** — Joined Amazon as an Applied Scientist Intern.
-- **2026** — *Towards Intrinsic Interpretability of Large Language Models* presented at **ACL 2026 (Oral)**.
+- **2026** — *Towards Intrinsic Interpretability of Large Language Models* presented at **ACL 2026** (<strong class="publication-oral">Oral</strong>).
 - **May–August 2026** — Machine Learning Engineer Intern at DoorDash.
 - **2025** — *Representation Preserving Multiclass Agnostic to Realizable Reduction* published at **ICML 2025**.
 - **2024** — *Learning Dynamic Mechanisms in Unknown Environments* published in **JMLR**.

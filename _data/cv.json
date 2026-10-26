@@ -79,7 +79,7 @@
     },
     {
       "name": "Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures",
-      "publisher": "Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference, Oral)",
+      "publisher": "Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference, <strong class=\"publication-oral\">Oral</strong>)",
       "releaseDate": "2026-04-17",
       "website": "https://aclanthology.org/2026.acl-long.1605/",
       "summary": "Yutong Gao*, <b>Qinglin Meng</b>*, Yuan Zhou, Liangming Pan"

@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Highlight oral presentations in publication lists and news. */
+.publication-oral {
+  color: #c62828;
+  font-weight: 700;
+  font-style: normal;
+}
+
+html[data-theme="dark"] .publication-oral {
+  color: #ff8a80;
+}
