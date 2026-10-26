@@ -10,4 +10,4 @@ paperurl: 'https://jmlr.org/papers/volume25/23-0159/23-0159.pdf'
 citation: 'Shuang Qiu*, Boxiang Lyu*, <b>Qinglin Meng</b>*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan'
 ---
 
-We study the problem of learning optimal dynamic mechanisms in unknown environments using reinforcement learning. We propose algorithms with provable sample complexity and regret guarantees for learning revenue-maximizing mechanisms when the buyer's valuation distribution is unknown and must be learned through interaction.
+We study dynamic mechanism design in unknown environments using reinforcement learning with linear function approximation. Reward-free exploration and optimistic/pessimistic value estimates support learning mechanisms and prices with provable guarantees.

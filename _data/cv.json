@@ -1,152 +1,206 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Qinglin Meng",
+    "label": "PhD Candidate in Computer Science",
+    "email": "qinglinmeng.work@gmail.com",
+    "website": "https://QLMeng2025.github.io",
+    "summary": "Research in reinforcement learning, large language models, statistical machine learning, multi-armed bandits, and mechanism design.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "West Lafayette",
+      "region": "Indiana",
+      "countryCode": "US"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=XpbUfTsAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0008-5218-9008"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/QLMeng2025"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/qinglin-meng-544295137"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Purdue University",
+      "area": "Ph.D. in Computer Science",
+      "startDate": "2022-08",
+      "endDate": "May 2027 (expected)",
+      "courses": [
+        "Advisor: Steve Hanneke"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Tsinghua University",
+      "area": "B.S. in Mathematical Science",
+      "startDate": "2017-08",
+      "endDate": "June 2022"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "company": "Amazon",
+      "position": "Applied Scientist Intern",
+      "startDate": "2026-08",
+      "endDate": "present",
+      "highlights": [
+        "Developed an LLM embedding and KNN retrieval pipeline for cost and profit prediction, reducing MAE by 15–20% relative to the existing economics-based baseline.",
+        "Post-trained a Transformer embedding model with contrastive learning."
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "position": "Machine Learning Engineer Intern, Marketplace – Supply and Demand",
+      "startDate": "2026-05",
+      "endDate": "2026-08",
+      "highlights": [
+        "Formulated incentive allocation as an MDP.",
+        "Developed offline RL algorithms for service quality and incentive cost.",
+        "Built a pipeline covering offline training, evaluation, online experimentation, and serving."
+      ]
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "PAC Learning with Bandit Feedback: Sharp Sample Complexity in the Realizable Setting",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS 2026)",
+      "releaseDate": "2026-05-25",
+      "website": "https://arxiv.org/abs/2605.25678",
+      "summary": "Steve Hanneke, <b>Qinglin Meng</b>, Shay Moran, Amirreza Shaeiri (alphabetical order)"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures",
+      "publisher": "Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference, Oral)",
+      "releaseDate": "2026-04-17",
+      "website": "https://aclanthology.org/2026.acl-long.1605/",
+      "summary": "Yutong Gao*, <b>Qinglin Meng</b>*, Yuan Zhou, Liangming Pan"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "An Optimal Sauer Lemma Over k-ary Alphabets",
+      "publisher": "arXiv preprint arXiv:2604.12952",
+      "releaseDate": "2026-04-14",
+      "website": "https://arxiv.org/abs/2604.12952",
+      "summary": "Steve Hanneke, <b>Qinglin Meng</b>, Shay Moran, Amirreza Shaeiri (alphabetical order)"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Discover, Explain, and Repair: Adaptive Testing of LLM Failures in Medical Safety",
+      "publisher": "Manuscript under submission, 2026",
+      "releaseDate": "2026-01-01",
+      "website": null,
+      "summary": "Y. Zhou, S. Guo, <b>Qinglin Meng</b>, X. Zhang"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Representation Preserving Multiclass Agnostic to Realizable Reduction",
+      "publisher": "International Conference on Machine Learning (ICML 2025)",
+      "releaseDate": "2025-07-13",
+      "website": "https://proceedings.mlr.press/v267/hanneke25a.html",
+      "summary": "Steve Hanneke, <b>Qinglin Meng</b>, Amirreza Shaeiri (alphabetical order)"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach",
+      "publisher": "Journal of Machine Learning Research (JMLR)",
+      "releaseDate": "2024-01-01",
+      "website": "https://jmlr.org/papers/volume25/23-0159/23-0159.pdf",
+      "summary": "Shuang Qiu*, Boxiang Lyu*, <b>Qinglin Meng</b>*, Zhaoran Wang, Zhuoran Yang, Michael I. Jordan"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "CS 177: Python Programming",
+      "institution": "Purdue University",
+      "date": "2023-08",
+      "role": "Teaching Assistant",
+      "description": "Fall 2023–Fall 2025"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "CS 573: Data Mining",
+      "institution": "Purdue University",
+      "date": "2023-01",
+      "role": "Teaching Assistant",
+      "description": "Spring 2023"
     }
   ],
-  "portfolio": [
+  "skills": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "C++",
+        "R",
+        "MATLAB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Software and systems",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Git",
+        "Databricks",
+        "Snowflake"
+      ]
+    }
+  ],
+  "interests": [],
+  "languages": [],
+  "references": [],
+  "presentations": [],
+  "portfolio": [],
+  "service": [
+    "Reviewer: Transactions on Machine Learning Research (TMLR), COLM 2026, NeurIPS 2026, ACL ARR 2026."
+  ],
+  "researchProjects": [
+    {
+      "name": "Reward-Free RL for Mechanism Design and Dynamic Pricing Optimization",
+      "advisor": "Advisors: Michael I. Jordan, Zhaoran Wang, and Zhuoran Yang",
+      "highlights": [
+        "Studied online mechanism design with linear function approximation.",
+        "Developed reward-free exploration over a rich policy space to estimate prices.",
+        "Designed optimistic/pessimistic Q-function approximation algorithms to recover mechanisms over repeated interactions while balancing seller and buyer profit."
+      ]
+    },
+    {
+      "name": "Adaptive Training Data Allocation for LLM Safety via Non-stationary Bandits",
+      "advisor": "Advisor: Xiangyu Zhang",
+      "highlights": [
+        "Built a data pipeline with OpenFDA drug data, synthetic patient profiles, and generated scenarios for LLM safety evaluation and training.",
+        "Formulated adaptive post-training data selection as a non-stationary multi-armed bandit problem.",
+        "Implemented sliding-window Thompson Sampling to prioritize failure-prone drugs, reducing mean and worst-case error relative to uniform sampling and baseline curricula on LLaMA-3 and Qwen-2.5."
+      ]
+    },
+    {
+      "name": "Near-Optimal Bandit Learning for Multiclass Classification",
+      "advisor": "Advisors: Steve Hanneke and Shay Moran",
+      "highlights": [
+        "Proved a sharp Sauer lemma based on the list-DS dimension.",
+        "Developed a chain-of-list learning algorithm achieving near-optimal sample complexity for multiclass learning with bandit feedback.",
+        "Improved an existing list-learning sample complexity bound by a factor of K⁵."
+      ]
+    },
+    {
+      "name": "A Survey of Architecture-Level Design for Interpretable LLMs",
+      "advisor": "Advisor: Liangming Pan",
+      "highlights": [
+        "Analyzed architecture-level interpretability techniques, including codebook features, sparse mixture-of-experts architectures, and sparse autoencoder based steering."
+      ]
+    },
+    {
+      "name": "Reduction for Multiclass Learning",
+      "advisor": "Advisor: Steve Hanneke",
+      "highlights": [
+        "Studied multiclass reductions with potentially infinite label spaces.",
+        "Developed a representation preserving agnostic-to-realizable reduction by applying a realizable learner to realizable subsets of the input sample."
+      ]
     }
   ]
 }

@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/acl2026-llm-interpretability
 excerpt: 'A systematic survey on intrinsic interpretability for LLMs, categorizing approaches into five design paradigms built directly into model architectures.'
 date: 2026-04-17
-venue: 'Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference)'
-paperurl: 'https://arxiv.org/abs/2604.16042'
+venue: 'Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference, Oral)'
+paperurl: 'https://aclanthology.org/2026.acl-long.1605/'
 citation: 'Yutong Gao*, <b>Qinglin Meng</b>*, Yuan Zhou, Liangming Pan'
 ---
 

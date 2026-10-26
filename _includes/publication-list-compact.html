@@ -1,0 +1,6 @@
+{% assign publications = site.publications | sort: "date" | reverse %}
+{% for post in publications %}
+<p><strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong><br />
+{{ post.citation }}<br />
+<em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}{% if post.paperurl %} · <a href="{{ post.paperurl }}">Paper</a>{% endif %}</p>
+{% endfor %}
