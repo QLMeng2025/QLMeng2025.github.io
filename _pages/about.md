@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Computer Science at [Purdue University](https://www.cs.purdue.edu/) (August 2022–May 2027, expected), advised by [Steve Hanneke](https://stevehanneke.com/). I received my B.S. in Mathematical Science from [Tsinghua University](https://www.math.tsinghua.edu.cn/) in June 2022.
 
-My research interests include **reinforcement learning**, **large language models**, **statistical machine learning**, **multi-armed bandits**, and **mechanism design**. My work spans learning theory, sequential decision making, and LLM safety and interpretability.
+My research interests include **reinforcement learning**, **large language models**, **statistical machine learning**, **multi-armed bandits**, and **mechanism design**. My work spans learning theory, reinforcement learning and LLMs.
 
 I am currently an **Applied Scientist Intern at Amazon** (August 2026–present). Previously, I was a **Machine Learning Engineer Intern at DoorDash** (May–August 2026).
 
